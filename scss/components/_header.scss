@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header__nav-list {
+    display: flex;
+    gap: 8px;
+    font-family: 'Raleway', sans-serif;
+        text-decoration: none;
+        margin-right: 93px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 1.1923076923;
+        letter-spacing: 0.03em;
+        color: #2196f3;
+}
+
+
